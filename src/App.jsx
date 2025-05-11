@@ -3,7 +3,7 @@ import Home from "./pages/home/Home";
 import Products from "./pages/products/Products";
 import Header from "./components/header";
 import { Toaster } from "react-hot-toast";
-import Categories from "./pages/categories/categories";
+import Categories from "./pages/categories";
 
 function App() {
    return (

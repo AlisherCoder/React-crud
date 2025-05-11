@@ -103,4 +103,4 @@ const Categories = () => {
    );
 };
 
-export default Categories;
+export default React.memo(Categories);
